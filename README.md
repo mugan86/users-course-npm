@@ -12,4 +12,5 @@ Teniendo esa referencia, hacemos los cambios en este documento, en el apartado q
 |  Nombre |  Apellidos |  Github | 
 |---|---|---|
 | NPM  | Udemy Course  | [Npm Udemy Course](https://github.com/npm-udemy-course) |
-|   |   |   |
+| Anartz  | Mugika Ledo  | [mugan86](https://github.com/mugan86) |
+| Compodoc | Course  |  [compodoc](https://github.com/compodoc-course) |
